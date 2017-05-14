@@ -1,5 +1,7 @@
 # CoolHex
 
+**CoolHex ver 0.11 by Maxim CooLick aka MCL**
+
 Advanced hex viewer\editor with PE header analyser.
 
 ```
